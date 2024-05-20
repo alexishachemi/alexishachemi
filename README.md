@@ -11,15 +11,15 @@ I enjoy learning new things, especially when its fun. ^^
 
 Let's [connect on github](https://github.com/alexishachemi)!
 
-## Socials 📱
-
-[<img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">](https://www.linkedin.com/in/alexis-hachemi/)
-[<img width=50 src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">](https://github.com/alexishachemi)
-
 ## Interrests ⚡
 
 - Game Development 🕹️
 - Networking 📡
+
+## Socials 📱
+
+[<img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">](https://www.linkedin.com/in/alexis-hachemi/)
+[<img width=50 src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">](https://github.com/alexishachemi)
 
 ## Tech 💻
 
@@ -32,7 +32,6 @@ Let's [connect on github](https://github.com/alexishachemi)!
 - [**HSSD**](https://github.com/mathematisse/HSSD) - A Game for the Epitech Jam 2023
 - [**Linked**](https://github.com/alexishachemi/linked) - A generic linked list library in C
 - [**Dining Philosophers**](https://github.com/alexishachemi/dining-philosophers) - An experiment on the Dining Philosophers synchronization problem
-
 
 ## Stats 👀
 
