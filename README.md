@@ -28,7 +28,7 @@ Let's [connect on github](https://github.com/alexishachemi)!
   ## Some of my Projects 📓
 
 - [**SockNet**](https://github.com/alexishachemi/socknet) - A TCP network interface using C sockets
-- [**CLogger**](https://github.com/alexishachemi/clogger) - A logging utility in C
+- [**Zappy**](https://github.com/alexishachemi/zappy) - A game where teams of automated players face off to be the first to evolve to the last level
 - [**HSSD**](https://github.com/mathematisse/HSSD) - A Game for the Epitech Jam 2023
 - [**Linked**](https://github.com/alexishachemi/linked) - A generic linked list library in C
 - [**Dining Philosophers**](https://github.com/alexishachemi/dining-philosophers) - An experiment on the Dining Philosophers synchronization problem
