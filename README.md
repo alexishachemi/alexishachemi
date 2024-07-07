@@ -32,6 +32,7 @@ Let's [connect on github](https://github.com/alexishachemi)!
 - [**HSSD**](https://github.com/mathematisse/HSSD) - A Game for the Epitech Jam 2023
 - [**Linked**](https://github.com/alexishachemi/linked) - A generic linked list library in C
 - [**Dining Philosophers**](https://github.com/alexishachemi/dining-philosophers) - An experiment on the Dining Philosophers synchronization problem
+- [**My LibC**](https://github.com/alexishachemi/my_libC) - A general purpose library made for my C projects during my first year at Epitech
 
 ## Stats 👀
 
