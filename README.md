@@ -19,7 +19,7 @@ Let's [connect on github](https://github.com/alexishachemi)!
 ## Platforms 📱
 
 [<img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">](https://www.linkedin.com/in/alexis-hachemi/)
-[<img width=50 src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">](https://github.com/alexishachemi)
+[<img width=50 src="github_logo.png">](https://github.com/alexishachemi)
 [<img width=50 src="https://static.itch.io/images/itchio-textless-white.svg">](https://alexish.itch.io/)
 
 ## Tech 💻
