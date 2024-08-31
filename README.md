@@ -29,6 +29,7 @@ Let's [connect on github](https://github.com/alexishachemi)!
 
 - [**SockNet**](https://github.com/alexishachemi/socknet) - A TCP network interface using C sockets
 - [**Zappy**](https://github.com/alexishachemi/zappy) - A game where teams of automated players face off to be the first to evolve to the last level
+- [**ProcGen**](https://github.com/alexishachemi/ProcGen) - A procedural generation library for room-based dungeons and caves.
 - [**HSSD**](https://github.com/mathematisse/HSSD) - A Game for the Epitech Jam 2023
 - [**Linked**](https://github.com/alexishachemi/linked) - A generic linked list library in C
 - [**Dining Philosophers**](https://github.com/alexishachemi/dining-philosophers) - An experiment on the Dining Philosophers synchronization problem
