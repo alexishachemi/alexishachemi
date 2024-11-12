@@ -1,0 +1,36 @@
+# Based on https://github.com/Saverio976/Saverio976
+name: Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Generate
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            docs/github-snake-dark.svg?palette=github-dark
+
+      - name: Push changes
+        run: |
+          git config --global user.name 'Github Actions'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git add "snake.svg"
+          git commit -am "Update snake"
+          git push

@@ -11,6 +11,10 @@ I enjoy learning new things, especially when its fun. ^^
 
 Let's [connect on github](https://github.com/alexishachemi)!
 
+<p align='center'>
+  <img src="snake.svg">
+</p>
+
 ## Interrests ⚡
 
 - Game Development 🕹️
