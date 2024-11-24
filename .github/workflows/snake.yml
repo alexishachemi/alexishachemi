@@ -24,7 +24,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            docs/github-snake-dark.svg?palette=github-dark
+            snake.svg?palette=github-dark
 
       - name: Push changes
         run: |
