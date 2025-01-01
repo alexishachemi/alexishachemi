@@ -43,8 +43,8 @@ Let's [connect on github](https://github.com/alexishachemi)!
 
 ## Stats 👀
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexishachemi&count_private=true&show_icons=true&locale=en" alt="alexishachemi" width="400" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexishachemi&count_private=true&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=dark&icon_color=2f80ed" alt="alexishachemi" width="400" />
 
-<img src="https://api.githubtrends.io/user/svg/alexishachemi/langs?time_range=one_year&include_private=True&theme=classic" alt="alexishachemi" width="400" />
+<img src="https://api.githubtrends.io/user/svg/alexishachemi/langs?time_range=one_year&include_private=True&theme=dark" alt="alexishachemi" width="400" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=alexishachemi&column=3" alt="alexishachemi" width="400" />
+<img src="https://github-profile-trophy.vercel.app/?username=alexishachemi&column=3&no-bg=true&theme=onestar" alt="alexishachemi" width="400" />
