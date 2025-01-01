@@ -11,10 +11,6 @@ I enjoy learning new things, especially when its fun. ^^
 
 Let's [connect on github](https://github.com/alexishachemi)!
 
-<p align='center'>
-  <img src="snake.svg">
-</p>
-
 ## Interrests ⚡
 
 - Game Development 🕹️
@@ -48,3 +44,7 @@ Let's [connect on github](https://github.com/alexishachemi)!
 <img src="https://api.githubtrends.io/user/svg/alexishachemi/langs?time_range=one_year&include_private=True&theme=dark" alt="alexishachemi" width="400" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=alexishachemi&column=3&no-bg=true&theme=onestar" alt="alexishachemi" width="400" />
+
+<p align='center'>
+  <img src="snake.svg">
+</p>
