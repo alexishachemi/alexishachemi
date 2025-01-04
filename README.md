@@ -41,11 +41,11 @@ Let's [connect on github](https://github.com/alexishachemi)!
 ## Stats 👀
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=alexishachemi&count_private=true&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=dark&icon_color=2f80ed" alt="alexishachemi" width="500" />
+<img src="https://github-readme-stats.vercel.app/api?username=alexishachemi&count_private=true&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=dark&icon_color=2f80ed" alt="alexishachemi" width="400" />
 </p>
 
 <p align='center'>
-<img src="https://api.githubtrends.io/user/svg/alexishachemi/langs?time_range=one_year&include_private=True&theme=dark" alt="alexishachemi" width="500" />
+<img src="https://api.githubtrends.io/user/svg/alexishachemi/langs?time_range=one_year&include_private=True&theme=dark" alt="alexishachemi" width="400" />
 </p>
 
 <p align='center'>
