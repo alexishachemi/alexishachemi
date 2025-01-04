@@ -21,11 +21,11 @@ Let's [connect on github](https://github.com/alexishachemi)!
 [<img width=50 src="github_logo.png">](https://github.com/alexishachemi)
 [<img width=50 src="https://static.itch.io/images/itchio-textless-white.svg">](https://alexish.itch.io/)
 
-## Tech 💻
+## Tech Stack ⚙️
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" alt="SFML Logo" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="Raylib Logo" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="Godot Logo" width="40"/>
 
-## Some of my Projects 📓
+## Some Projects ⌨️
 
 | Name                                                                              | Description                                                                                |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -38,7 +38,7 @@ Let's [connect on github](https://github.com/alexishachemi)!
 | [**Linked**](https://github.com/alexishachemi/linked)                             | Generic linked list library in C.                                                          |
 | [**My LibC**](https://github.com/alexishachemi/my_libC)                           | General purpose library made for my C projects during my first year at Epitech.            |
 
-## Stats 👀
+## Stats 📈
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=alexishachemi&count_private=true&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=dark&icon_color=2f80ed" alt="alexishachemi" width="400" />
