@@ -27,8 +27,6 @@ Let's [connect on github](https://github.com/alexishachemi)!
 
 ## Some of my Projects 📓
 
-<center>
-
 | Name                                                                              | Description                                                                                |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [**Zappy**](https://github.com/alexishachemi/zappy)                               | Game where teams of AI players face off to be the first to evolve to the last level.       |
@@ -40,14 +38,16 @@ Let's [connect on github](https://github.com/alexishachemi)!
 | [**Linked**](https://github.com/alexishachemi/linked)                             | Generic linked list library in C.                                                          |
 | [**My LibC**](https://github.com/alexishachemi/my_libC)                           | General purpose library made for my C projects during my first year at Epitech.            |
 
-</center>
-
 ## Stats 👀
 
-<center>
+<p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=alexishachemi&count_private=true&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=dark&icon_color=2f80ed" alt="alexishachemi" width="400" />
+</p>
 
+<p align='center'>
 <img src="https://api.githubtrends.io/user/svg/alexishachemi/langs?time_range=one_year&include_private=True&theme=dark" alt="alexishachemi" width="400" />
+</p>
 
-<img src="snake.svg">
-</center>
+<p align='center'>
+  <img src="snake.svg">
+</p>
